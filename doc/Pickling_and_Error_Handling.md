@@ -2,7 +2,7 @@ Cynthia Halim
 March 1, 2021  
 Foundations of Programming: Python  
 Assignment 07   
-GitHub URL: 
+GitHub URL: https://github.com/CXHUW/ITFnd100-Mod07/blob/main/doc/Pickling_and_Error_Handling.md
 
 # **Pickling and Error Handling**
 
