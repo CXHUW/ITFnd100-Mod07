@@ -1,7 +1,7 @@
 Cynthia Halim  
 March 1, 2021  
-Foundations of Programming: Python
-Assignment 07
+Foundations of Programming: Python  
+Assignment 07   
 GitHub URL: 
 
 # **Pickling and Error Handling**
